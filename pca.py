@@ -5,11 +5,11 @@ from scipy.sparse.linalg import *
 import numpy
 import matplotlib.pyplot as plt
 
-tfidf = [line.strip() for line in open('tf-idfdata.txt')]
+tfidf = [line.strip() for line in open('data\\tf-idfdata.txt')]
 data = [[float(value) for value in line.rstrip(',').split(',')] for line in tfidf]
 
-classes = [int(line.strip()) for line in open('classification.txt')]
-labels = [line.strip() for line in open('artistList.txt')]
+classes = [int(line.strip()) for line in open('data\\classification.txt')]
+labels = [line.strip() for line in open('data\\artistList.txt')]
 
 myData = numpy.array(data) 
 
@@ -67,7 +67,7 @@ plt.show()
 
 # Export N-D dimensional data for use in K-Means
 
-output_file = open('reduced-data.txt', 'w')
+output_file = open('data\\reduced-data.txt', 'w')
 
 decomp = svds(sparse, int(sys.argv[1]))
 # result = (decomp[0]*decomp[1])

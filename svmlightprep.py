@@ -5,16 +5,16 @@ import random
 # the rest will be used as test
 training_ratio = float(sys.argv[1])
 
-tfidf = [line.strip() for line in open('tf-idfdata.txt')]
+tfidf = [line.strip() for line in open('data/tf-idfdata.txt')]
 
 data = [[float(value) for value in line.rstrip(',').split(',')] for line in tfidf]
 
-classes = [int(line.strip()) for line in open('classification.txt')]
+classes = [int(line.strip()) for line in open('data/classification.txt')]
 
-artists = [line.strip() for line in open('artistList.txt')]
+artists = [line.strip() for line in open('data/artistList.txt')]
 
-training_file = open('svmlight_train.txt', 'w')
-test_file = open('svmlight_test.txt', 'w')
+training_file = open('data/svmlight/svmlight_train.txt', 'w')
+test_file = open('data/svmlight/svmlight_test.txt', 'w')
 
 for i in range(0, len(data)):
 

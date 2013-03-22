@@ -7,10 +7,10 @@ from scipy.sparse.linalg import *
 import numpy
 import matplotlib.pyplot as plt
 
-text_data = [line.strip() for line in open('reduced-data.txt')]
+text_data = [line.strip() for line in open('data\\reduced-data.txt')]
 data = [[float(value) for value in line.rstrip(',').split(',')] for line in text_data]
 
-labels = [line.strip() for line in open('artistList.txt')]
+labels = [line.strip() for line in open('data\\artistList.txt')]
 
 # pre-process data
 

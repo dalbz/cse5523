@@ -2,9 +2,9 @@ from collections import Counter
 from collections import defaultdict
 import math
 
-artists = [line.strip() for line in open('artistList.txt')]
-tagLists = [line.strip() for line in open('tagStrings.txt')]
-countLists = [line.strip() for line in open('tagCounts.txt')]
+artists = [line.strip() for line in open('data/artistList.txt')]
+tagLists = [line.strip() for line in open('data/tagStrings.txt')]
+countLists = [line.strip() for line in open('data/tagCounts.txt')]
 
 tags = [line.rstrip(',').split(',') for line in tagLists]
 
@@ -45,7 +45,7 @@ print docs_with_term
 
 # output the new tf-idf representation
 
-output_file = open('tf-idfdata.txt', 'w')
+output_file = open('data/tf-idfdata.txt', 'w')
 
 for i in range(0, len(artists)):
     for term in termlist:

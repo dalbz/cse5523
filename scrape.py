@@ -5,9 +5,9 @@ from time import sleep
 
 if (sys.argv[1] == 'artists'):
 
-    data = json.load(urllib2.urlopen('http://ws.audioscrobbler.com/2.0/?method=chart.gettopartists&limit=500&api_key=56b26f4bbdd972b4460ca2ab0b53e63a&format=json'))
+    data = json.load(urllib2.urlopen('http://ws.audioscrobbler.com/2.0/?method=chart.gettopartists&limit=' + sys.argv[2] + '&api_key=56b26f4bbdd972b4460ca2ab0b53e63a&format=json'))
 
-    f = open('artistList.txt', 'w')
+    f = open('data/artistList.txt', 'w')
 
     for artist in data['artists']['artist']:
         
@@ -21,10 +21,10 @@ if (sys.argv[1] == 'artists'):
 
 if (sys.argv[1] == 'tags'):
 
-    lines = [line.strip() for line in open('artistList.txt')]
+    lines = [line.strip() for line in open('data/artistList.txt')]
 
-    f1 = open('tagStrings.txt', 'w')
-    f2 = open('tagCounts.txt', 'w')
+    f1 = open('data/tagStrings.txt', 'w')
+    f2 = open('data/tagCounts.txt', 'w')
 
     for line in lines:
         if (line != ''):
@@ -51,9 +51,9 @@ if (sys.argv[1] == 'tags'):
 
 if (sys.argv[1] == 'classify'):
 
-    artists = [line.strip() for line in open('artistList.txt')]
+    artists = [line.strip() for line in open('data/artistList.txt')]
 
-    f = open('classification.txt', 'w')
+    f = open('data/classification.txt', 'w')
 
     for artist in artists:
 
