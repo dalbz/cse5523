@@ -38,7 +38,7 @@ y_yes = []
 x_no = []
 y_no = []
 
-for i in range(0, 100):
+for i in range(0, len(reduced)):
     if (classes[i] == 1):
         x_yes.append(reduced[i][0]*-1)
         y_yes.append(reduced[i][1]*-1)
@@ -70,8 +70,8 @@ plt.show()
 output_file = open('data\\reduced-data.txt', 'w')
 
 decomp = svds(sparse, int(sys.argv[1]))
-# result = (decomp[0]*decomp[1])
-result = decomp[0]
+result = (decomp[0]*decomp[1])
+# result = decomp[0]
 
 print decomp[0].shape
 print decomp[1].shape

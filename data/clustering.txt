@@ -1,0 +1,80 @@
+['Calvin Harris', 'Gotye', 'Crystal Castles', 'Moby', 'Bastille', 'The Temper Trap', 'R\xc3\xb6yksopp', 'The Chemical Brothers', 'Hot Chip', 'Fatboy Slim', 'Major Lazer', 'Kylie Minogue', 'Metronomy', 'MS MR', 'Goldfrapp', 'Ti\xc3\xabsto', 'Caribou', 'Cut Copy', 'Phantogram', 'Groove Armada', 'How to Destroy Angels', 'Crystal Fighters', 'Archive', 'Atlas Genius', 'Faithless', 'Digitalism', 'Kraftwerk', 'Basement Jaxx', 'Underworld', 'Trentem\xc3\xb8ller', 'ATB', 'Sky Ferreira', 'IAMX']
+
+['Pendulum', 'Nero', 'Chase & Status', 'DJ Fresh', 'Netsky', 'Rudimental', 'Sub Focus', 'Noisia']
+
+['David Bowie', 'The Black Keys', 'Queen', 'Pink Floyd', 'Led Zeppelin', 'Bob Dylan', 'Tame Impala', 'Aerosmith', 'Bon Jovi', 'Fleetwood Mac', 'The Who', 'Simon & Garfunkel', 'Bruce Springsteen', 'Dire Straits', 'Elton John', 'Neil Young', 'The Police', 'Tom Waits', 'Billy Joel', 'Jack White', 'Phil Collins', 'Asaf Avidan & the Mojos', 'Journey', 'Iggy Pop', 'Van Morrison', 'Wolfmother', 'Santana', 'Bryan Adams', 'Paul Simon', 'Rush', 'Genesis', 'John Lennon', 'Electric Light Orchestra', 'Toto', 'Lou Reed', 'Paul McCartney', 'Bee Gees', 'Eagles', 'Cat Stevens', 'Billy Idol', 'Kansas', 'Foxygen', 'Tom Petty and The Heartbreakers', 'Supertramp', 'Boston', 'Foreigner', 'Yes', 'Rod Stewart', 'Blue \xc3\x96yster Cult', 'Rodriguez', 'Hall & Oates', 'Thin Lizzy', 'Peter Gabriel', 'Tom Petty', 'T. Rex', 'The Stooges', 'Jethro Tull', 'Heart', 'Nat King Cole', 'Survivor', 'The Band', 'Patti Smith', 'Frank Zappa', 'Roxy Music', 'George Harrison', 'B.B. King', 'The Cars', 'Chicago']
+
+['Bullet for My Valentine', 'Avenged Sevenfold', 'Bring Me the Horizon', 'Killswitch Engage', 'Five Finger Death Punch', 'Lamb of God', 'Parkway Drive', 'Asking Alexandria', 'As I Lay Dying', 'Atreyu']
+
+['Florence + the Machine', 'Mumford & Sons', 'The xx', 'Arctic Monkeys', 'Ellie Goulding', 'Two Door Cinema Club', 'The Smiths', 'Foals', 'Oasis', 'Alt-J', 'One Direction', 'Blur', 'Ed Sheeran', 'The Kooks', 'Marina & the Diamonds', 'Kasabian', 'Keane', 'Ben Howard', 'Bombay Bicycle Club', 'Daughter', 'Birdy', 'Lily Allen', 'The Vaccines', 'Olly Murs', 'The Verve', 'Kaiser Chiefs', 'Noah and the Whale', 'Kate Nash', 'The Wanted', 'The Wombats', 'Jake Bugg', 'Editors', 'The Ting Tings', 'Morrissey', 'The Fratellis', 'Pulp', 'The Stone Roses', 'Frightened Rabbit', 'White Lies', 'James Morrison', 'Django Django', 'Klaxons', 'The Libertines', 'The Maccabees', 'Travis', 'Everything Everything', 'Suede', 'Cher Lloyd', 'Manic Street Preachers', 'The Horrors', 'Amy Macdonald', 'The Joy Formidable', 'Benjamin Francis Leftwich', 'The Last Shadow Puppets', 'Hadouken!', 'Frank Turner', 'Cheryl Cole', 'The Subways', 'Band of Skulls', 'Supergrass', 'James Arthur', 'Miles Kane', 'Razorlight', 'The Jam', 'Palma Violets']
+
+['Phoenix', 'Justice', 'Kavinsky', 'Yann Tiersen', 'C2C', 'Nouvelle Vague', 'College', 'Madeon', 'Martin Solveig', 'Yelle']
+
+['David Guetta', 'Daft Punk', 'Swedish House Mafia', 'Avicii', 'deadmau5', 'Benny Benassi', 'Bingo Players', 'Dada Life', 'Kaskade', 'Flight Facilities', 'Totally Enormous Extinct Dinosaurs', 'Nicolas Jaar', 'Boys Noize']
+
+['Lady Antebellum', 'Blake Shelton', 'Jason Aldean', 'Kenny Chesney', 'Tim McGraw', 'Luke Bryan', 'Brad Paisley', 'Zac Brown Band', 'The Band Perry']
+
+['The Offspring', 'Rise Against', 'My Chemical Romance', 'Avril Lavigne', 'Ramones', 'Jimmy Eat World', 'Billy Talent', 'Bad Religion', 'Brand New', 'The Used', 'Misfits', 'AFI', 'The Gaslight Anthem', 'NOFX', 'Taking Back Sunday', 'Anberlin', 'Rancid', 'Alkaline Trio', 'Angels & Airwaves', 'Gogol Bordello']
+
+['PSY', '\xec\x86\x8c\xeb\x85\x80\xec\x8b\x9c\xeb\x8c\x80']
+
+['Green Day', 'Sum 41', 'Panic! At the Disco', 'The All-American Rejects', "Plain White T's"]
+
+['Of Monsters and Men', 'Sigur R\xc3\xb3s', 'Bj\xc3\xb6rk', 'Mogwai', 'Explosions in the Sky', 'Aphex Twin', 'Apparat', 'Four Tet', 'God Is an Astronaut', 'Brian Eno', 'Godspeed You! Black Emperor', 'Enigma', 'Bibio', 'The Album Leaf', 'Dead Can Dance']
+
+['[unknown]', 'Hans Zimmer', 'Ludwig van Beethoven', 'Ludovico Einaudi', 'Johann Sebastian Bach', 'Ennio Morricone', 'Wolfgang Amadeus Mozart', 'Fr\xc3\xa9d\xc3\xa9ric Chopin', 'John Williams', 'Howard Shore', '\xc3\x93lafur Arnalds', 'Antonio Vivaldi', 'Clint Mansell', 'Claude Debussy', 'Pyotr Ilyich Tchaikovsky']
+
+['Fall Out Boy', 'Simple Plan', 'All Time Low', 'You Me at Six', 'New Found Glory']
+
+['Coldplay', 'The Cure', 'Arcade Fire', 'Placebo', 'Franz Ferdinand', 'Snow Patrol', 'Bloc Party', 'Joy Division', 'The Clash', 'Nick Cave and the Bad Seeds', 'Metric', 'Interpol', 'New Order', 'Dido', 'Belle and Sebastian', 'Robbie Williams', 'Biffy Clyro', 'Talking Heads', 'Sonic Youth', 'Stereophonics', 'Sting', 'Blondie', 'Black Rebel Motorcycle Club', 'Mika', 'The Kills', 'James Blunt', 'PJ Harvey', 'Duran Duran', 'Gossip', 'Friendly Fires', 'Yo La Tengo', 'Imogen Heap', 'Broken Social Scene', 'a-ha', 'Stars', 'Tears for Fears', 'Silversun Pickups', 'Kate Bush', 'The Antlers', 'Eurythmics', 'George Michael', 'Cyndi Lauper', 'Paolo Nutini', 'Elbow', 'Chairlift', 'Dinosaur Jr.', 'The Rapture', 'INXS', 'Sex Pistols', 'Lenka', 'The Dead Weather', 'Spice Girls', 'David Gray', 'Simple Minds', 'Natasha Bedingfield', 'Echo & the Bunnymen', 'Primal Scream', 'Siouxsie and the Banshees', 'Camera Obscura', 'Tokyo Police Club', 'Doves', 'The Men', 'Jamie Cullum', 'Elvis Costello', 'The Stranglers', 'Swans', 'Madness']
+
+['Radiohead', 'Muse', 'Lana Del Rey', 'Red Hot Chili Peppers', 'Nirvana', 'Imagine Dragons', 'The Killers', 'Maroon 5', 'Foo Fighters', 'The Strokes', 'P!nk', 'Kings of Leon', 'Foster the People', 'fun.', 'Passion Pit', 'MGMT', 'Yeah Yeah Yeahs', 'The White Stripes', 'Katy Perry', 'Lady Gaga', 'Ke$ha', 'Pearl Jam', 'Death Cab for Cutie', 'Madonna', 'The Smashing Pumpkins', 'Vampire Weekend', 'R.E.M.', 'Britney Spears', 'Queens of the Stone Age', 'The Shins', 'Weezer', 'The National', 'Pixies', 'Modest Mouse', 'The Prodigy', 'Beck', 'Nickelback', 'Band of Horses', 'AWOLNATION', '30 Seconds to Mars', 'OneRepublic', 'Jason Mraz', 'The Naked and Famous', 'Kelly Clarkson', 'Incubus', 'Jack Johnson', 'Atoms for Peace', 'Alice in Chains', '3 Doors Down', 'Baauer', 'Train', 'The Fray', 'No Doubt', 'LCD Soundsystem', 'Santigold', 'Demi Lovato', 'Soundgarden', 'Bob Marley & The Wailers', 'Frank Sinatra', 'The Postal Service', 'Animal Collective', 'Bright Eyes', 'Owl City', 'Bob Marley', 'Grouplove', 'The Flaming Lips', 'Goo Goo Dolls', 'Young the Giant', 'Eels', 'Ratatat', 'Matt & Kim', 'Jamiroquai', 'Counting Crows', 'Miles Davis', 'Garbage', 'Michael Bubl\xc3\xa9', 'Sublime', 'Woodkid', 'Tenacious D', 'Neon Trees', 'TV on the Radio', 'Yeasayer', 'The Decemberists', 'Cake', 'Lenny Kravitz', 'Lifehouse', 'Cold War Kids', 'Jeff Buckley', 'Stone Temple Pilots', 'Bloodhound Gang', 'Spoon', 'Louis Armstrong', 'Starfucker', 'Broken Bells', 'Armin van Buuren', 'Cage the Elephant', 'Porcupine Tree', 'Walk the Moon', 'Scissor Sisters', 'The Raconteurs', 'Jet', 'Hoobastank', 'Enrique Iglesias', 'Matchbox Twenty', 'Gwen Stefani', 'Radical Face', 'Pink', 'Dave Matthews Band', 'The Pretty Reckless', 'The Head And The Heart', 'Miley Cyrus', 'Backstreet Boys', 'Portugal. The Man', 'The Whitest Boy Alive', 'Daughtry', 'OK Go', 'Ra Ra Riot', 'Third Eye Blind', 'Infected Mushroom', 'The Dandy Warhols', 'Selena Gomez & the Scene', 'Bush', 'The Mars Volta', 'Coheed and Cambria', 'Gavin DeGraw', 'Thom Yorke', 'Adam Lambert', 'My Morning Jacket', 'The Neighbourhood', 'Electric Guest', 'of Montreal', 'John Coltrane', 'Hole', 'Smash Mouth', 'Matisyahu', 'Cascada', 't.A.T.u.', 'Los Hermanos', 'Dashboard Confessional', 'Natalie Imbruglia', '311', 'Mat Kearney', 'Rilo Kiley', 'Charlie Brown JR.', 'Violent Femmes', 'Cher', 'The Walkmen', 'John Frusciante', 'They Might Be Giants', 'Poets of the Fall', 'Live', '*NSYNC', 'The Airborne Toxic Event', 'The Bravery', 'Herbie Hancock']
+
+['Linkin Park', 'System of a Down', 'Korn', 'Slipknot', 'Marilyn Manson', 'Rammstein', 'Limp Bizkit', 'Deftones', 'Papa Roach', 'Disturbed', 'Passenger', 'Stone Sour', 'Godsmack', 'Rob Zombie', 'P.O.D.', 'Drowning Pool', 'Static-X', 'Mudvayne', 'Dope']
+
+['Taylor Swift', 'Johnny Cash', 'The Avett Brothers', 'Carrie Underwood', 'Rascal Flatts', 'Miranda Lambert', 'Hunter Hayes']
+
+['The Script', 'The Cranberries', 'Damien Rice', 'Dropkick Murphys', 'Enya', 'Flogging Molly', 'James Vincent McMorrow', 'The Pogues']
+
+['blink-182', 'Paramore', 'Good Charlotte', 'Yellowcard', 'Cobra Starship', 'Mayday Parade', 'Boys Like Girls']
+
+['M83', 'Depeche Mode', 'Air', 'Hurts', 'Miike Snow', 'Empire of the Sun', 'La Roux', 'Chromatics', 'Pet Shop Boys', 'C\xc3\xa9line Dion', 'Manu Chao', 'Ladytron', 'Austra', 'Little Boots', 'Simian Mobile Disco', 'CHVRCHES']
+
+['The Lumineers', 'Bon Iver', 'U2', 'John Mayer', 'Regina Spektor', 'Fleet Foxes', 'Tegan and Sara', 'Edward Sharpe & The Magnetic Zeros', 'Feist', 'Carly Rae Jepsen', 'Beirut', 'Iron & Wine', 'Cat Power', 'Sufjan Stevens', 'Local Natives', 'Glee Cast', 'Devendra Banhart', 'Bat for Lashes', 'Kings of Convenience', 'Alanis Morissette', 'Elliott Smith', 'City and Colour', 'Angus & Julia Stone', 'Fiona Apple', 'Wilco', 'Leonard Cohen', 'Christina Perri', 'Nick Drake', 'Andrew Bird', 'She & Him', 'Phillip Phillips', 'Eddie Vedder', 'Sara Bareilles', 'Laura Marling', 'The Civil Wars', 'St. Vincent', 'Ingrid Michaelson', 'Ray LaMontagne', 'Ryan Adams', 'Colbie Caillat', 'Tori Amos', 'CocoRosie', 'Ben Harper', 'Joshua Radin', 'Sheryl Crow', 'Dirty Projectors', 'Joni Mitchell', 'A Fine Frenzy', 'Sarah McLachlan', 'KT Tunstall', 'Barenaked Ladies', 'Waxahatchee', 'Rufus Wainwright', 'Alexi Murdoch', 'William Fitzsimmons']
+
+['Lykke Li', 'The Knife', 'Icona Pop', 'The Tallest Man on Earth', 'Jos\xc3\xa9 Gonz\xc3\xa1lez', 'Robyn', 'Peter Bjorn and John', 'The Cardigans', 'The Hives', 'ABBA', 'Little Dragon', 'First Aid Kit', 'Fever Ray', 'Roxette', 'Loreen', 'Mando Diao', 'Shout Out Louds']
+
+['Macklemore & Ryan Lewis', 'Eminem', 'Kendrick Lamar', 'Jay-Z', 'A$AP Rocky', 'Flo Rida', 'Kid Cudi', 'Pitbull', "Lil' Wayne", 'Beastie Boys', 'Wiz Khalifa', 'OutKast', 'Snoop Dogg', 'Lupe Fiasco', 'The Notorious B.I.G.', 'Nas', 'B.o.B', '2Pac', 'Dr. Dre', '50 Cent', 'Jay-Z & Kanye West', 'T.I.', 'Rick Ross', 'The Roots', 'Wu-Tang Clan', 'Mac Miller', 'Tyga', 'J. Cole', 'The Game', 'Big Sean', 'Childish Gambino', 'A Tribe Called Quest', '2 Chainz', 'Cypress Hill', 'Ludacris', 'Die Antwoord', 'Wale', 'Tyler, the Creator', 'Ice Cube', 'Common', 'Macklemore', 'The Throne', 'Meek Mill', 'Fort Minor', 'Mos Def', 'DMX', 'Young Jeezy', 'Chiddy Bang', 'ScHoolBoy Q', 'Earl Sweatshirt', 'Atmosphere', 'Gang Starr', 'Busta Rhymes', 'DJ Khaled', 'Waka Flocka Flame', 'N*E*R*D', 'Tinie Tempah', 'Big Boi', 'Plan B', 'Future', 'Fabolous', 'The Streets', 'French Montana', 'Pusha T', 'Run-D.M.C.']
+
+['Skrillex', 'James Blake', 'Alex Clare', 'Disclosure', 'Zedd', 'SBTRKT', 'Burial', 'Flux Pavilion', 'Knife Party', 'Feed Me', 'CAZZETTE', 'Porter Robinson', 'Bassnectar', 'Rusko', 'Modestep', 'Krewella']
+
+['Rihanna', 'Beyonc\xc3\xa9', 'Frank Ocean', 'Alicia Keys', 'Usher', 'The Weeknd', 'Mariah Carey', 'Ne-Yo', "Destiny's Child", 'John Legend', 'Miguel', 'Taio Cruz', 'Ciara', 'R. Kelly', 'Jason Der\xc3\xbclo', 'Trey Songz', 'Kelly Rowland', 'Solange', 'TLC', 'Lauryn Hill', 'Nicole Scherzinger', 'Janet Jackson', 'Fergie', 'Mary J. Blige', 'Kelis']
+
+['A Day to Remember', 'Enter Shikari', 'Escape the Fate', 'Silverstein', 'The Red Jumpsuit Apparatus', 'Pierce The Veil', 'Alexisonfire', 'Sleeping with Sirens']
+
+['Nine Inch Nails', 'Rage Against the Machine', 'Three Days Grace', 'Breaking Benjamin', 'Audioslave', 'A Perfect Circle', 'Seether', 'Shinedown', 'Skillet', 'Faith No More', 'Hollywood Undead', 'Staind', 'Lostprophets', 'Creed', 'Serj Tankian', 'Flyleaf', 'Red', 'Theory of a Deadman', 'Chevelle', 'Alter Bridge', 'Puddle of Mudd', 'Thousand Foot Krutch', 'Guano Apes', 'Sick Puppies', 'Slash', 'Switchfoot', 'Hinder', 'Mindless Self Indulgence', 'Them Crooked Vultures', 'Halestorm', 'Alien Ant Farm', 'Puscifer']
+
+['Massive Attack', 'Bonobo', 'Portishead', 'Sia', 'Parov Stelar', 'Boards of Canada', 'The Cinematic Orchestra', 'Pretty Lights', 'Flying Lotus', 'Zero 7', 'DJ Shadow', 'Thievery Corporation', 'The Glitch Mob', 'Morcheeba', 'Tycho', 'Flume', 'UNKLE', 'AlunaGeorge', 'Emancipator', 'Tricky', 'Blue Foundation', 'Fink', 'Amon Tobin', 'Emil\xc3\xadana Torrini', 'Nosaj Thing', 'Lamb', 'T\xc3\xa9l\xc3\xa9popmusik', 'Hooverphonic']
+
+['Adele', 'Amy Winehouse', 'Emeli Sand\xc3\xa9', 'Jessie J', 'Labrinth', 'Rita Ora', 'Leona Lewis', 'Jessie Ware', 'Duffy', 'Paloma Faith', 'Corinne Bailey Rae']
+
+['Chris Brown', 'Akon', 'T-Pain']
+
+['Kanye West', 'Drake', 'will.i.am', 'Nicki Minaj', 'Black Eyed Peas', 'Nelly', 'Timbaland', 'Cee Lo Green', 'Fugees']
+
+['Youth Lagoon', 'Toro y Moi', 'Washed Out', 'Neon Indian', 'XXYYXX', 'Gold Panda', 'Tennis']
+
+["Guns N' Roses", 'Iron Maiden', 'AC/DC', 'Black Sabbath', 'Deep Purple', 'Tool', 'Ozzy Osbourne', 'Scorpions', 'Mot\xc3\xb6rhead', 'Kiss', 'Van Halen', 'Slayer', 'Judas Priest', 'Dream Theater', 'Alice Cooper', 'Mastodon', 'Volbeat', 'M\xc3\xb6tley Cr\xc3\xbce', 'Dio', 'Anthrax', 'Def Leppard', 'Whitesnake', 'Anathema', 'Rainbow', 'Eluveitie', 'Europe', 'Manowar', 'Skid Row']
+
+['The Beatles', 'The Rolling Stones', 'The Doors', 'Jimi Hendrix', 'Creedence Clearwater Revival', 'Eric Clapton', 'The Beach Boys', 'Elvis Presley', 'The Velvet Underground', 'The Kinks', 'Lynyrd Skynyrd', 'The Jimi Hendrix Experience', 'Alabama Shakes', 'ZZ Top', 'Jefferson Airplane', 'Cream', 'Janis Joplin', 'Chuck Berry', 'The Animals', 'Dusty Springfield', 'The Mamas & the Papas', 'Joe Cocker', 'Nancy Sinatra', 'Grateful Dead', 'Roy Orbison', 'The Byrds', 'The Allman Brothers Band', 'Buffalo Springfield', 'Steppenwolf']
+
+['Justin Timberlake', 'Bruno Mars', 'Christina Aguilera', 'Justin Bieber', 'Stevie Wonder', 'Rhye', 'Marvin Gaye', 'Jennifer Lopez', 'Ray Charles', 'James Brown', 'Aretha Franklin', 'Otis Redding', 'Whitney Houston', 'Bill Withers', 'The Pussycat Dolls', 'Al Green', 'Earth, Wind & Fire', 'Etta James', 'The Temptations', 'Sam Cooke', 'The Jackson 5', 'Erykah Badu', 'Lionel Richie']
+
+['Metallica', 'Evanescence', 'Nightwish', 'Megadeth', 'Pantera', 'In Flames', 'Within Temptation', 'Apocalyptica', 'Opeth', 'HIM', 'Trivium', 'Children of Bodom', 'Soilwork', 'Sepultura', 'Machine Head', 'Blind Guardian', 'Helloween', 'Sonata Arctica', 'Katatonia', 'Amon Amarth', 'Lacuna Coil', 'All That Remains', 'Sabaton', 'Epica', 'Arch Enemy', 'Gojira', 'Meshuggah', 'Death']
+
+['Michael Jackson', 'Norah Jones', 'Shakira', 'Nina Simone', 'Nelly Furtado', 'Haim', 'Prince', 'Ella Fitzgerald', 'Sade', 'Billie Holiday', 'Tracy Chapman', 'The Heavy', 'Seal', 'Kimbra', 'Selah Sue', 'Conor Maynard', 'Tina Turner']
+
+['Gorillaz', 'M.I.A.', 'Azealia Banks', 'LMFAO', 'The Lonely Island', 'Gym Class Heroes', 'Far East Movement', 'RJD2', 'Gnarls Barkley', '3OH!3', 'Example', 'Sean Paul', 'Death Grips', 'Aloe Blacc', 'Danny Brown', 'Dev']
+
+['Grizzly Bear', 'Beach House', 'Grimes', 'My Bloody Valentine', 'Purity Ring', 'The Drums', 'Neutral Milk Hotel', 'Sleigh Bells', 'Best Coast', 'Cults', 'Wild Nothing', 'Unknown Mortal Orchestra', 'Pavement', 'Deerhunter', 'Beach Fossils', 'The Jesus and Mary Chain', 'Twin Shadow', 'Girls', 'The Mountain Goats', 'Japandroids', 'Real Estate', 'Mazzy Star', 'Autre Ne Veut', 'The Magnetic Fields', 'Cocteau Twins', 'Warpaint']
+

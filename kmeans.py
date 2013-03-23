@@ -81,6 +81,10 @@ results = [[] for i in range(0, num_clusters)]
 for i in range(0, r_data.shape[0]):
     results[clusters[i]].append(labels[i])
 
+output_file = open('data\\clustering.txt', 'w')
+
 for artist_list in results:
-    print artist_list
-    print '\n\n'
+    output_file.write(str(artist_list))
+    output_file.write('\n\n')
+
+output_file.close()
