@@ -5,7 +5,7 @@ from scipy.sparse.linalg import *
 import numpy
 import matplotlib.pyplot as plt
 
-tfidf = [line.strip() for line in open('data\\tf-idfdata.txt')]
+tfidf = [line.strip() for line in open('data\\centered-data.txt')]
 data = [[float(value) for value in line.rstrip(',').split(',')] for line in tfidf]
 
 classes = [int(line.strip()) for line in open('data\\classification.txt')]
