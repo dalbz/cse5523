@@ -1,0 +1,82 @@
+Of Monsters and Men
+		1.0103609
+MGMT
+		0.28687318
+The White Stripes
+		0.10824353
+Vampire Weekend
+		0.037514782
+Beirut
+		0.019470814
+Eric Clapton
+		0.17025807
+The Knife
+		0.31719627
+Youth Lagoon
+		1.2913878
+Bob Marley & The Wailers
+		0.080429612
+Animal Collective
+		0.50227127
+Matt & Kim
+		0.14903823
+TV on the Radio
+		0.45763964
+Peter Bjorn and John
+		1.1161745
+The Hives
+		1.4350191
+Neutral Milk Hotel
+		0.43533066
+Jefferson Airplane
+		0.75478153
+Sleigh Bells
+		0.99549435
+Starfucker
+		0.20144656
+Broken Bells
+		0.4803131
+The Avett Brothers
+		0.72113857
+Friendly Fires
+		0.4930707
+Yo La Tengo
+		0.12668227
+Best Coast
+		0.49009048
+First Aid Kit
+		0.69388162
+Django Django
+		0.97214197
+The Antlers
+		0.11349472
+Fever Ray
+		0.06465649
+Foxygen
+		1.8923389
+Wild Nothing
+		0.072103531
+Ra Ra Riot
+		0.099466996
+Ólafur Arnalds
+		0.29985555
+Unknown Mortal Orchestra
+		1.5692971
+Thom Yorke
+		0.059315442
+The Dead Weather
+		1.3246228
+of Montreal
+		0.28067069
+Dirty Projectors
+		0.53376576
+Mando Diao
+		1.0244403
+Japandroids
+		0.08636227
+Hadouken!
+		0.68631448
+Gold Panda
+		0.14070133
+Simian Mobile Disco
+		0.049906651

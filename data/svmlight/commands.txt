@@ -1,0 +1,9 @@
+# Vanilla
+../../../svmlight/svm_learn svmlight_train.txt trained_model.txt
+# Poly Kernel
+../../../svmlight/svm_learn -t 1 svmlight_train.txt trained_model.txt
+# RBF Kernel
+../../../svmlight/svm_learn -t 2 svmlight_train.txt trained_model.txt
+
+../../../svmlight/svm_classify svmlight_test.txt trained_model.txt output.txt
+
